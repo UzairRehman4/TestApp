@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore"
 import { getStorage } from 'firebase/storage';
 import { FirebaseOptions } from 'firebase/app';
 const firebaseConfig:FirebaseOptions = {
-  apiKey: "AIzaSyB655h_i6z0jDklLWyXX6Iknxx4Zuek8Nw",
+
   authDomain: "testapp-6aeea.firebaseapp.com",
   databaseURL: "https://testapp-6aeea-default-rtdb.firebaseio.com",
   projectId: "testapp-6aeea",
